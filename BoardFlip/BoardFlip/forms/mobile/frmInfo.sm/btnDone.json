@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0c46dc65e2b42baa756a7ee34753e9c",
+    "_text_": "DONE",
+    "_top_": {
+        "type": "string",
+        "value": "460dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6cb7e3bf1cd4510a815d51f6bfcbf27",
+    "id": "btnDone",
+    "ide_onClick": "AS_Button_609060d968b24437977e361310070811",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "kuid": "197804edce2d419ebeb55cece0189433",
+    "name": "kony.ui.Button",
+    "parent": "flexMain",
+    "pf": "frmInfo",
+    "wType": "Button",
+    "zindex": 1
+}

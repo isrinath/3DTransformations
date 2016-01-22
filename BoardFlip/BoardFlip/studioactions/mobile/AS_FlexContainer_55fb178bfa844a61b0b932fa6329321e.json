@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_55fb178bfa844a61b0b932fa6329321e": {
+        "id": "AS_FlexContainer_55fb178bfa844a61b0b932fa6329321e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aec3138f8ece4c95b3fe265a163e69a0"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__3d352d458dd74572be9f45d8cc5e6e2d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onFlexTouchMove(eventobject,x,y);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

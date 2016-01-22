@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "21dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd396035c4bb469baa588b361f455fdc",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7bb1d15c2014092a42c5fa6c8f34664",
+    "id": "btnBurgerMenu",
+    "ide_onClick": "AS_Button_28b093be17834fa18de06d9c55cb891a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "873158127ab04562a09ab7c22951f4dc",
+    "name": "kony.ui.Button",
+    "parent": "flexHeader",
+    "pf": "frm3DWithBurger",
+    "wType": "Button",
+    "zindex": 10
+}

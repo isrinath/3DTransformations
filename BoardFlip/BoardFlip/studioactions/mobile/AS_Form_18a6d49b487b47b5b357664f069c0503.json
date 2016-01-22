@@ -1,0 +1,18 @@
+{
+    "AS_Form_18a6d49b487b47b5b357664f069c0503": {
+        "id": "AS_Form_18a6d49b487b47b5b357664f069c0503",
+        "type": "ACTION_SEQUENCE",
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "KUID": "aec3138f8ece4c95b3fe265a163e69a0"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__a39f2a61a0924ab0abd28fb97fc6ec8d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "reverseButton();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

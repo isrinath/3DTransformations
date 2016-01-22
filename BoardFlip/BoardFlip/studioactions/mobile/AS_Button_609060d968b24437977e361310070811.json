@@ -1,0 +1,23 @@
+{
+    "AS_Button_609060d968b24437977e361310070811": {
+        "id": "AS_Button_609060d968b24437977e361310070811",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmInfo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5a194a521202405c987f254a6c49781d"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__8b1f215222a54ea181394c4aee107625",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "news = \"false\";\nstaraward = \"false\";\nchampion = \"false\";\nalaska = \"false\";\nwipro = \"false\";\nholiday = \"false\";\nbrics = \"false\";\nexon = \"false\";\nlarsen = \"false\";\nfrm3DWithBurger.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

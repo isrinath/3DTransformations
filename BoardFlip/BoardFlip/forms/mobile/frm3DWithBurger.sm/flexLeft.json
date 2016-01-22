@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfc16425b78a4c389c23262943a68b4a",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flexSports",
+        "flexLine1",
+        "flexEntertainment",
+        "flexLine2",
+        "flexRegional",
+        "flexLine3",
+        "flexInternational",
+        "flexLine4",
+        "flexGeneral",
+        "flexLine5",
+        "flexPolitical",
+        "flexLine6",
+        "flexBusiness",
+        "flexLine7",
+        "flexTechnology",
+        "flexLine8"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flexLeft",
+    "info": null,
+    "isvisible": true,
+    "kuid": "2effc96006bc465b81b2b0ebdff6ff7d",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexMain",
+    "pf": "frm3DWithBurger",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

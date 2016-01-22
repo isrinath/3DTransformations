@@ -1,0 +1,23 @@
+{
+    "AS_Form_ac8fcdb782bf43bebbe9106b16523183": {
+        "id": "AS_Form_ac8fcdb782bf43bebbe9106b16523183",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frm3DWithBurger1231",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9b00e69a16b94848b244bcee9548a351"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d219444948804cdfae09e0c6778b26e6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//glbScrollBegining = false;\n//frm3DWithBurger.flxScrollMain.scrollToEnd(); ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

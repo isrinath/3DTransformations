@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_9aef19655e054c53a7e580df967d77a1": {
+        "id": "AS_FlexContainer_9aef19655e054c53a7e580df967d77a1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aec3138f8ece4c95b3fe265a163e69a0"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__883dd86385654802a04a5debd43993c7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "saveValueY(eventobject,x,y);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

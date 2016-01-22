@@ -1,0 +1,22 @@
+{
+    "AS_Button_d785b6a401af4f3d9200ffb43702688a": {
+        "id": "AS_Button_d785b6a401af4f3d9200ffb43702688a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frm3DWithBurger",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b47eef5f8b7140ae9ab144674c5e9b70"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b82a737f3b634be2a76c397ad9ab2e70",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//moveContainerNew(6);\nholiday = \"true\";\nonClickReadMore();",
+            "callbackType": null
+        }]
+    }
+}

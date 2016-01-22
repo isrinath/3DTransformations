@@ -1,0 +1,17 @@
+{
+    "AS_Button_1285729943584855a1e06ae5378f3bdc": {
+        "id": "AS_Button_1285729943584855a1e06ae5378f3bdc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frm3DWithBurger1231",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9b00e69a16b94848b244bcee9548a351"
+        },
+        "actions": []
+    }
+}

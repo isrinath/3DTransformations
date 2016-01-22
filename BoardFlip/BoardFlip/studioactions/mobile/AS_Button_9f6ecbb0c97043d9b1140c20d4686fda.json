@@ -1,0 +1,23 @@
+{
+    "AS_Button_9f6ecbb0c97043d9b1140c20d4686fda": {
+        "id": "AS_Button_9f6ecbb0c97043d9b1140c20d4686fda",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aec3138f8ece4c95b3fe265a163e69a0"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__ea4cb36f4c894c5fb048cba4526402c2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "moveContainer(2);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

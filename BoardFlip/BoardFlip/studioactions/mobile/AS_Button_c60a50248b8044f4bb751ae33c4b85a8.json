@@ -1,0 +1,22 @@
+{
+    "AS_Button_c60a50248b8044f4bb751ae33c4b85a8": {
+        "id": "AS_Button_c60a50248b8044f4bb751ae33c4b85a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frm3DWithBurger",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b47eef5f8b7140ae9ab144674c5e9b70"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_fe7a86d611cc4d28bd7ba4333bc7d88b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//moveContainerNew(4);\nalaska = \"true\";\nonClickReadMore();",
+            "callbackType": null
+        }]
+    }
+}

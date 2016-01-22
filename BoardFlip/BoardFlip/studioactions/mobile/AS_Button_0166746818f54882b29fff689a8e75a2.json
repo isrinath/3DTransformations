@@ -1,0 +1,22 @@
+{
+    "AS_Button_0166746818f54882b29fff689a8e75a2": {
+        "id": "AS_Button_0166746818f54882b29fff689a8e75a2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frm3DWithBurger",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b47eef5f8b7140ae9ab144674c5e9b70"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_0cf1951c9f704fe1ad25b8de3a733fb5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//moveContainerNew(5);\nwipro = \"true\";\nonClickReadMore();",
+            "callbackType": null
+        }]
+    }
+}

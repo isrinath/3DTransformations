@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_b77cb3da0ab6416a84fed23f2bf79daa": {
+        "id": "AS_FlexContainer_b77cb3da0ab6416a84fed23f2bf79daa",
+        "type": "ACTION_SEQUENCE",
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aec3138f8ece4c95b3fe265a163e69a0"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_64ca28ccc835497b90c32793d22d217a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flipSeven();",
+            "callbackType": null
+        }]
+    }
+}

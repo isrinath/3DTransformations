@@ -1,0 +1,22 @@
+{
+    "AS_Button_858e4cc4ea424646bb2507ea9791c6cb": {
+        "id": "AS_Button_858e4cc4ea424646bb2507ea9791c6cb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frm3DWithBurger1231",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9b00e69a16b94848b244bcee9548a351"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_580dce9e836441baaf270c83ac515bcb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "menuToggle();",
+            "callbackType": null
+        }]
+    }
+}
