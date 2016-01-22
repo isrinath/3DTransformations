@@ -2,7 +2,9 @@
 Application to showcase the following 3D animations features using Kony Studio:
 
 •	Rotation
+
 •	Scaling
+
 •	Transform 
 
 # To run this app
