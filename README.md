@@ -16,3 +16,5 @@ Application to showcase the following 3D animations features using Kony Studio:
 # Supported platforms:
 **Mobile**
  * iPhone, Android
+ 
+**Supported KonyStudio Version:** 7.0
