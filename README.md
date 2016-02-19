@@ -10,7 +10,7 @@ Application to showcase the following 3D animations features using Kony Visualiz
 # To run this app
 
 1. Download the project
-2. Import project to your Kony IDE(Studioviz).
+2. Import project to your Kony IDE(Kony Visualizer).
 3. Build & run the app for Android and iPhone.
 
 # Supported platforms:
