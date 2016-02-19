@@ -1,5 +1,5 @@
 # 3DTransformations
-Application to showcase the following 3D animations features using Kony Studio:
+Application to showcase the following 3D animations features using KonyVisualizer:
 
 •	Rotation
 
@@ -17,4 +17,4 @@ Application to showcase the following 3D animations features using Kony Studio:
 **Mobile**
  * iPhone, Android
  
-**Supported KonyStudio Version:** 7.0
+**Supported KonyVisualizer Version:** 7.0
