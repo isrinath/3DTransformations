@@ -17,4 +17,4 @@ Application to showcase the following 3D animations features using Kony Visualiz
 **Mobile**
  * iPhone, Android
  
-**Supported Kony Visualizer Version:** 7.0
+**Supported Kony Visualizer Enterprise Version:** 7.0
