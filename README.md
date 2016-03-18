@@ -9,9 +9,11 @@ Application to showcase the following 3D animations features using Kony Visualiz
 
 # To run this app
 
-1. Download the project
-2. Import project to your Kony IDE(Kony Visualizer).
-3. Build & run the app for Android and iPhone.
+1. Download the project zip file.
+2. Unzip the project to any folder
+3. Launch Kony Visualizer Enterprise version 7.0.
+4. Import the project by selecting the BoardFlip folder.
+5. Build & run the app for Android and iPhone.
 
 # Supported platforms:
 **Mobile**
