@@ -22,4 +22,4 @@ Application to showcase the following 3D animations features using Kony Visualiz
  
 **Supported Kony Visualizer Enterprise Version:** 7.0
 
-Certified4KonyCommunity7.1.1 
+CertifiedAtKonyCommunity
